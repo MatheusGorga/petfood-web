@@ -1,0 +1,28 @@
+.product-list {
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+.product-list {
+	border-bottom: 1px solid #dcdcdcdc;
+}
+
+.product-list img {
+	border: 1px solid #dcdcdcdc;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.product-list small {
+	margin-top: -5px;
+	line-height: 15px;
+	display: block;
+}
+
+.product-list button {
+	position: absolute;
+	right: 30px;
+	padding: 6px 10px;
+	font: 25px;
+	margin-top: 15px;
+}

@@ -1,0 +1,19 @@
+.sidebar h5 {
+	font-weight: bold;
+	height: 35px;
+	margin-bottom: 0;
+}
+.sidebar .products {
+	height: calc(100% - 220px);
+	overflow: auto;
+	align-content: flex-start;
+}
+
+.footer {
+	background-color: #f5f6f6;
+	height: 185px;
+}
+
+.footer .botao {
+	font-size: 1.3rem;
+}
