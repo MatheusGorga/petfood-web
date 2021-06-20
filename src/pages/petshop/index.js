@@ -4,7 +4,7 @@ import Product from '../../components/product/card'
 
 const Petshop = () => {
   return (
-    <div className="h-100 petshop">
+    <div className="h-100 ">
       <Header/>
       <div className="container">
         <div className="row">
